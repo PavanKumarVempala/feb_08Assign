@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "2OPLUnjkFaoUhG+zMUiOYCgJPC7aemNuFcJwZqP3Xqg=",
+  "Source": "WebAPI08febAssess",
+  "BasePath": "_content/WebAPI08febAssess",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI08febAssess\\wwwroot",
+      "Source": "WebAPI08febAssess",
+      "ContentRoot": "D:\\Simplilearn\\Phase_3\\dailyAssessments\\WebAPI08febAssess\\WebAPI08febAssess\\wwwroot\\",
+      "BasePath": "_content/WebAPI08febAssess",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Simplilearn\\Phase_3\\dailyAssessments\\WebAPI08febAssess\\WebAPI08febAssess\\wwwroot\\css\\OurStyle.css",
+      "SourceId": "WebAPI08febAssess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Simplilearn\\Phase_3\\dailyAssessments\\WebAPI08febAssess\\WebAPI08febAssess\\wwwroot\\",
+      "BasePath": "_content/WebAPI08febAssess",
+      "RelativePath": "css/OurStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\OurStyle.css"
+    },
+    {
+      "Identity": "D:\\Simplilearn\\Phase_3\\dailyAssessments\\WebAPI08febAssess\\WebAPI08febAssess\\wwwroot\\html\\home.html",
+      "SourceId": "WebAPI08febAssess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Simplilearn\\Phase_3\\dailyAssessments\\WebAPI08febAssess\\WebAPI08febAssess\\wwwroot\\",
+      "BasePath": "_content/WebAPI08febAssess",
+      "RelativePath": "html/home.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\home.html"
+    },
+    {
+      "Identity": "D:\\Simplilearn\\Phase_3\\dailyAssessments\\WebAPI08febAssess\\WebAPI08febAssess\\wwwroot\\js\\OurScript.js",
+      "SourceId": "WebAPI08febAssess",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Simplilearn\\Phase_3\\dailyAssessments\\WebAPI08febAssess\\WebAPI08febAssess\\wwwroot\\",
+      "BasePath": "_content/WebAPI08febAssess",
+      "RelativePath": "js/OurScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\OurScript.js"
+    }
+  ]
+}

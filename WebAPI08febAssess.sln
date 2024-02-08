@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI08febAssess", "WebAPI08febAssess\WebAPI08febAssess.csproj", "{E598639A-CAF0-43FB-9CE8-21E8BD1F115C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E598639A-CAF0-43FB-9CE8-21E8BD1F115C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E598639A-CAF0-43FB-9CE8-21E8BD1F115C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E598639A-CAF0-43FB-9CE8-21E8BD1F115C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E598639A-CAF0-43FB-9CE8-21E8BD1F115C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9722EC86-1D6D-462D-B976-A88C386F3C61}
+	EndGlobalSection
+EndGlobal
